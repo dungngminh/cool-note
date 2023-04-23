@@ -2,7 +2,7 @@
 tags: [Final Project]
 title: AppCreaty
 created: '2023-04-09T13:08:03.049Z'
-modified: '2023-04-09T14:40:23.231Z'
+modified: '2023-04-16T08:49:15.751Z'
 ---
 
 # AppCreaty
@@ -16,4 +16,20 @@ modified: '2023-04-09T14:40:23.231Z'
 - Build application to apk file.
 ## What I used? 
 - Flutter Desktop
-
+## Type of props
+- String
+- Enum
+- Num
+- Boolean
+### How to render them?
+- String -> TextField
+- Enum -> Dropdown
+- Num -> Spinner
+- Boolean -> CheckBox
+### Expect type
+- Color in container -> use BoxDecoration(color)
+### Defaul value of widget
+- Text: HelloWorld
+- Image:  Assets.images.png.defaultImage()
+- Container - color: PrimaryColor, height = width = 200
+ 
