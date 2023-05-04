@@ -2,7 +2,7 @@
 tags: [Final Project]
 title: AppCreaty
 created: '2023-04-09T13:08:03.049Z'
-modified: '2023-04-16T08:49:15.751Z'
+modified: '2023-05-01T17:22:14.023Z'
 ---
 
 # AppCreaty
@@ -32,4 +32,7 @@ modified: '2023-04-16T08:49:15.751Z'
 - Text: HelloWorld
 - Image:  Assets.images.png.defaultImage()
 - Container - color: PrimaryColor, height = width = 200
- 
+### Methods
+- Json
+- Class
+- `copyWith` function
