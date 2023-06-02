@@ -2,7 +2,7 @@
 tags: [Final Project]
 title: AppCreaty
 created: '2023-04-09T13:08:03.049Z'
-modified: '2023-05-01T17:22:14.023Z'
+modified: '2023-06-02T13:22:27.379Z'
 ---
 
 # AppCreaty
@@ -36,3 +36,7 @@ modified: '2023-05-01T17:22:14.023Z'
 - Json
 - Class
 - `copyWith` function
+### Solution
+
+- `body`, `child`, `children`
+
